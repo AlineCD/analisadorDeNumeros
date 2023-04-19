@@ -38,5 +38,5 @@ ___
 
 ```bash
     # Clonar o repositório
-    $ git clone 
-```
+    $ git clone  https://github.com/AlineCD/analisadorDeNumeros
+``` 
